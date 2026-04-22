@@ -1,0 +1,15 @@
+build/
+dist/
+nbproject/private/
+*.class
+*.log
+.DS_Store
+
+git add .
+git commit -m "Initial commit - e_service project"
+git remote add origin https://github.com/TruptiG0909/E-service-finding--A-Platform-to-find-and-Hire-Temporary-workers-Online.git
+
+git branch -M main
+git push -u origin main
+git status
+
