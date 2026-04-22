@@ -140,5 +140,12 @@ e_service/
 # eservice-finding-system
 # eservice-finding-system
 # eservice-finding-system
-# eservice-finding-system
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TruptiG0909/eservice-finding-system.git
+git push -u origin main
 # eservice-finding-system
